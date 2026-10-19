@@ -1,0 +1,6 @@
+{
+  "name": "UniTrajeto Campus Mobility",
+  "description": "Aplicativo de caronas universitárias seguras e compartilhadas entre alunos e colaboradores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
